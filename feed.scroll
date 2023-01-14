@@ -1,0 +1,5 @@
+import settings.scroll
+title The Chicago Pub
+ hidden
+permalink feed.xml
+printFeed index
