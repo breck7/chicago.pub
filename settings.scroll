@@ -1,0 +1,6 @@
+importOnly
+description The Chicago Pub is a public domain newspaper serving the people of Chicago, IL
+git https://github.com/breck7/chicago.pub
+viewSourceBaseUrl https://github.com/breck7/chicago.pub/blob/main
+email tips@chicago.pub
+baseUrl https://chicago.pub

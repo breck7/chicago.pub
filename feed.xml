@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<rss version="2.0">
+<channel>
+ <title>The Chicago Pub</title>
+ <link>https://chicago.pub</link>
+ <description>The Chicago Pub is a public domain newspaper serving the people of Chicago, IL</description>
+ <lastBuildDate>Sat, 14 Jan 2023 13:14:37 +0000</lastBuildDate>
+ <language>en-us</language>
+ <item>
+  <title>Aloha Chicago</title>
+  <link>https://chicago.pubfirstPost.html</link>
+  <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
+ </item>
+</channel>
+</rss>
